@@ -8,6 +8,9 @@
     grid-gap: 45px;
     margin: 100px 50px;
 }
+.cart-container{
+    background-color: coral;
+}
 @media screen and (max-width:110px) {
     .products-container{
         grid-template-columns: repeat(2,1fr);
